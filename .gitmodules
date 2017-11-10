@@ -1,0 +1,3 @@
+[submodule "ThirdParty/birth-of-the-toolkit"]
+	path = ThirdParty/birth-of-the-toolkit
+	url = http://github.com/simply-jos/birth-of-the-toolkit
